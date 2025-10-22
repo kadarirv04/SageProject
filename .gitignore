@@ -1,0 +1,20 @@
+# General
+.DS_Store
+.env
+
+# Node / React
+windsurf-frontend/node_modules/
+windsurf-frontend/build/
+windsurf-frontend/.pnp/
+
+# Java / Maven
+windsurf-backend/target/
+
+# Logs
+logs/
+*.log
+
+# IDE
+.idea/
+.vscode/
+*.iml
