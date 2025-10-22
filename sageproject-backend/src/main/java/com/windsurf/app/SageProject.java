@@ -6,8 +6,8 @@ import org.springframework.data.jpa.repository.config.EnableJpaAuditing;
 
 @SpringBootApplication
 @EnableJpaAuditing
-public class WindsurfApplication {
+public class SageProject {
     public static void main(String[] args) {
-        SpringApplication.run(WindsurfApplication.class, args);
+        SpringApplication.run(SageProject.class, args);
     }
 }
