@@ -1,0 +1,20 @@
+# General
+.DS_Store
+.env
+
+# Node / React
+sageproject-frontend/node_modules/
+sageproject-frontend/build/
+sageproject-frontend/.pnp/
+
+# Java / Maven
+sageproject-backend/target/
+
+# Logs
+logs/
+*.log
+
+# IDE
+.idea/
+.vscode/
+*.iml
