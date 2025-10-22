@@ -3,12 +3,12 @@
 .env
 
 # Node / React
-windsurf-frontend/node_modules/
-windsurf-frontend/build/
-windsurf-frontend/.pnp/
+sageproject-frontend/node_modules/
+sageproject-frontend/build/
+sageproject-frontend/.pnp/
 
 # Java / Maven
-windsurf-backend/target/
+sageproject-backend/target/
 
 # Logs
 logs/
